@@ -5,7 +5,6 @@ public class AgeCalculator {
     static int calculateAge(int birthYear, int currentYear) {
         return currentYear - birthYear;
     }
-
     public static void main(String[] args) {
 
         try (Scanner sc = new Scanner(System.in)) {
