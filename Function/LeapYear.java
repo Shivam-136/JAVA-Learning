@@ -7,7 +7,6 @@ public class LeapYear {
         else
             System.out.println("Not a Leap Year");
     }
-
     public static void main(String[] args) {
         checkLeapYear(2024);
     }
