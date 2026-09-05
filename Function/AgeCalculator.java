@@ -16,7 +16,6 @@ public class AgeCalculator {
             int currentYear = sc.nextInt();
 
             int age = calculateAge(birthYear, currentYear);
-
             System.out.println("Your Age is: " + age + " years");
         }
     }
