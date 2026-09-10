@@ -1,5 +1,3 @@
-// Write a function to calculate a^b.
-
 public class Power {
 
     static int power(int a, int b) {
